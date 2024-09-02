@@ -10,7 +10,8 @@ public class soal5 {
         int hasil = jmlhA + jmlhB;
         System.err.println(+hasil);
         int result = A.compareTo(B);
-        if (result >= jmlhA)
+        // System.out.println(+result);
+        if (result >= 0)
         {
             System.out.println("YES");
         }
