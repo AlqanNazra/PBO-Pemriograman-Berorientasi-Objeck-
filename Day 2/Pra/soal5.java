@@ -1,3 +1,5 @@
+import java.math.BigInteger;
+
 public class soal5 {
     // 05.40
     public static void main(String[] args) {

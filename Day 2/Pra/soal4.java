@@ -1,3 +1,5 @@
+import java.util.Scanner;
+
 public class soal4 {
      // paham 05.16
      // tipe data  | range     | bit
