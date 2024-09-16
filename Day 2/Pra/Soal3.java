@@ -7,6 +7,8 @@ public class Soal3{
     }
    }
 
+
+import com.polban.jtk.sales.Product;
    /*Pada program ini merupakan fungsi dari Math yang memiliki fungsi 
     * untuk dapat membuat Nilai dari tipe data Double dan float dapat 
     diibulatkan.
