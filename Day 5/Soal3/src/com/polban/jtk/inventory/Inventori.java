@@ -27,8 +27,8 @@ public class Inventori {
     }
 
     public int showpengadaan(int nilaistock) {
-        pengadaan(nilaistock); 
-        return barangs[0].getStok(); 
+        pengadaan(nilaistock); // Call pengadaan, but no need to return anything
+        return barangs[0].getStok(); // Example: return the updated stock for the first item
     }
 
     
